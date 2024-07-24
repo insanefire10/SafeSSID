@@ -1,3 +1,5 @@
+#adding this line to test dev branch lol
+
 Write-Host 'Welcome to SafeSSID' -ForegroundColor DarkBlue
 Write-Host 'This tool identifies saved hidden networks and networks with no password, typically after visitng guest wifi' -ForegroundColor Green
 Write-Host 'You can then use this tool to remove any old or suspicious saved networks to protect yourself from Hidden SSID Probe attacks' -ForegroundColor Green
